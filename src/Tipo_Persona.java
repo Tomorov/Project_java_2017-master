@@ -25,7 +25,7 @@ public abstract class Tipo_Persona  {
 
     /**
      * Il costruttore della classe. Per ora prende in imput solo padre e madre, ma ovviamente serviranno altri
-     * parametri tipo un insieme con fratelli e sorelle.
+     * parametri tipo un set con fratelli e sorelle.
      * @param padre
      * @param madre
      */
